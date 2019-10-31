@@ -33,7 +33,7 @@ def Normalize(num): # 입력 값을 sign, exponent, significand 파트로 나눈
 def MakeFloatBits(part): # 앞에서 나눈 값들을 bitwise 연산을 통해 변환 시킨다.
 ```
 
-## OUTPUT
+## Output
 ```console
 Enter the number: 10
 Integer Number: 10, Bits: 0x0000000a, Size: 28
