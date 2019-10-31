@@ -1,5 +1,11 @@
 # Python_IEEE-754_Converter
-```Python``` 를 이용하여 IEEE754 Converter를 만들어 보자.
+| **작성일**       | **키워드**           |  **참고**|
+| ------------- |:-------------:|:-------------:| 
+| 2019.10.30     | `Python` `IEEE754` | `CSCI256` 'CSCI223' |
+
+## Points
+1. ```Python``` 를 이용하여 IEEE754 Converter를 만들어 보자. 
+1. ```CSCI223``` 에서 ```C```로 작성한 코드를 ```Python```으로 변환해보자.
 
 ## Python Code
 > Library & Modules
